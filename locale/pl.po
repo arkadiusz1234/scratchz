@@ -473,7 +473,7 @@ msgid "when I start as a clone"
 msgstr "kiedy zaczynam jako klon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "kiedy scena kliknięta"
 
 # "kiedy *ten* duszek kliknięty"?
 msgid "when this sprite clicked"
