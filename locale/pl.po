@@ -1870,8 +1870,11 @@ msgid "Manual Update Available"
 msgstr ""
 
 # Offline editor only
-msgid "Open Project"
-msgstr ""
+msgid "Save Project"
+msgstr "Zapisz Projekt"
+
+msgid "Load Project"
+msgstr "Wczytaj Projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
