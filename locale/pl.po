@@ -1891,7 +1891,10 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Zapisz Projekt"
+
+msgid "Load Project"
+msgstr "Wczytaj Projekt"
 
 # Offline editor only
 msgid "Server error:"
