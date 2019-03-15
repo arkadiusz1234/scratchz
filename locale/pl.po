@@ -1871,10 +1871,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr "Zapisz Projekt"
-
-msgid "Load Project"
-msgstr "Wczytaj Projekt"
+msgstr ""
 
 # Offline editor only
 msgid "Please visit the download page to install it."
