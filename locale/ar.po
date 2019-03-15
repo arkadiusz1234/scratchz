@@ -16,7 +16,7 @@ msgstr ""
 "X-POOTLE-MTIME: 1429070628.000000\n"
 
 msgid "%b and %b"
-msgstr "%b و %b"
+msgstr "%b و b"
 
 msgid "%b or %b"
 msgstr "%b أو %b"
