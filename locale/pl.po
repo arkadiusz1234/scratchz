@@ -42,6 +42,9 @@ msgstr "odpowiedź"
 msgid "ask %s and wait"
 msgstr "zapytaj %s i czekaj"
 
+msgid "Load Experimental Extension"
+msgstr "Załaduj eksperymentalne rozszerzenie"
+
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "tło #"
