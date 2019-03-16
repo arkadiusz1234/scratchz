@@ -46,7 +46,7 @@ function JSshowExtensionDialog() {
     showModal(["template-extension-file", "template-extension-url"]);
 }
 
-var flashVars = { // test
+var flashVars = { // test.
     autostart: 'false',
     extensionDevMode: 'false',
     server: encodeURIComponent(location.host),
