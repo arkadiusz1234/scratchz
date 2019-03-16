@@ -48,7 +48,7 @@ function JSshowExtensionDialog() {
 
 var flashVars = { // test.
     autostart: 'false',
-    extensionDevMode: 'false',
+    extensionDevMode: 'true',
     server: encodeURIComponent(location.host),
     cloudToken: '4af4863d-a921-4004-b2cb-e0ad00ee1927',
     cdnToken: '34f16bc63e8ada7dfd7ec12c715d0c94',
