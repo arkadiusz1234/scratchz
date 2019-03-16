@@ -15,8 +15,8 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1383330289.000000\n"
 
-msgid "Save Project"
-msgstr "Zapisz Projekt"
+# msgid "Save Project"
+# msgstr "Zapisz Projekt"
 
 msgid "%b and %b"
 msgstr "%b i %b"
