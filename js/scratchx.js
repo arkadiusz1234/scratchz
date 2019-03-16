@@ -1,4 +1,4 @@
-// Simulate the bare minimum of the view that exists on the main site
+// Simulate the bare minimum of the view that exists on the main site.
 var Scratch = Scratch || {};
 Scratch.editorIsReady = false;
 Scratch.FlashApp = Scratch.FlashApp || {};
