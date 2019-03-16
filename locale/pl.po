@@ -1873,8 +1873,8 @@ msgid "Manual Update Available"
 msgstr ""
 
 # Offline editor only
-msgid "Save Project"
-msgstr ""
+# msgid "Save Project"
+# msgstr ""
 
 # Offline editor only
 msgid "Please visit the download page to install it."
